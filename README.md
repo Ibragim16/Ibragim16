@@ -1,16 +1,31 @@
-### Hi there 👋
+## Мои проекты:
 
-<!--
-**Ibragim16/Ibragim16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* #### Кинотеатр: Где пользователь, может заказывать билеты, не выходя из дома, так же выбрав фильм, зал и сеанс. 
+* [client-code](https://github.com/jack-coul/cinema-client)
+* [backend-code](https://github.com/jack-coul/backForCinema)
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* #### Социальная сеть: пользователь может зарегистрироваться, листать ленту, просматривать профили пользователей, писать личные сообщения, писать комментарии, ставить лайки, публиковать посты.
+
+* [client-code](https://github.com/jack-coul/social-network)
+* [backend-code](https://github.com/jack-coul/backForSocialMedia)
+
+***
+
+***
+
+### Использую следующие технологии:
+
+<p>
+  
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=JavaScript&logoColor=white"/>   
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />    
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />   
+  <img alt="WebPack" src="https://img.shields.io/badge/webpack-111111?style=for-the-badge&logo=Webpack" />   
+  <img alt="Express" src="https://img.shields.io/badge/-Express-pink?style=for-the-badge&logo=Express&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" /> 
+  
+  
+</p>->
